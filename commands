@@ -14,6 +14,11 @@ git branch -M master
 git remote add origin https://github.com/kirankumar06/hello-from-git.git
 git push -u origin master
 
+git diff
+
+git diff --staged file-name -> It's compare the staging area and local workspace
+
+
 
 
 
