@@ -1,0 +1,19 @@
+git config --global user.name "Kiran Kumar"
+
+git config --global user.email "email"
+
+git init
+
+git status
+
+git commit file1 -m "first commit"
+
+git log
+
+git branch -M master
+git remote add origin https://github.com/kirankumar06/hello-from-git.git
+git push -u origin master
+
+
+
+
